@@ -1,0 +1,26 @@
+#agrupar {
+    display: block;
+    padding: 14px;
+    margin: 14px
+}
+li {
+    list-style: none;
+}
+#Lista li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    margin: 8px;
+    font: bold 14px verdana, sans-serif;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 5px;
+}
+#Lista {
+    background: rgb(226, 221, 221);
+    padding: 0px 5px; 
+    border: 1px solid black;
+}
+p a:hover{
+ background: red;
+}

@@ -1,0 +1,8 @@
+h1 {
+    text-align: center;
+  color: red;
+  animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    50% {color:blue;}
+}

@@ -1,0 +1,57 @@
+* {
+    margin: 14px;
+    padding: 0px;
+}
+nav, footer, figure {
+    display: block;
+}
+#Lista li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana, sans-serif;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 5px;
+
+}
+#Lista {
+    background: rgb(226, 221, 221);
+    padding: 0px 5px; 
+}
+#lista a:hover {
+    background: red;
+}
+#agrupar h3 {
+    float: center;
+    padding: 14px;
+    margin: 14px;
+    color: blue;
+    border-bottom: blue solid;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+}
+#Parrafo {
+    display: block;
+    text-align: center;
+    background: rgb(226, 221, 221);
+    padding: 14px;
+    margin-top: 14px;
+    border: 3px solid black;
+    border-radius: 6px;
+}
+.textotienda {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font: bold 40px verdana, sans-serif;
+    border-radius: 15px;
+    border: 5px solid grey;
+    background: -webkit-radial-gradient(center, circle, rgba(255, 114, 114, 0.315) 0%, #006699 200%);
+}
+

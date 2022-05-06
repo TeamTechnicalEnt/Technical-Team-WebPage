@@ -1,0 +1,31 @@
+#agrupar {
+    display: block;
+    margin: 20px;
+    padding: 0px;
+}
+img {
+    width: 10%;
+    padding: 0px;
+}
+#Lista li {
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+    font: bold 14px verdana, sans-serif;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 5px;
+}
+li {
+    list-style: none;
+}
+#Lista {
+    background: rgb(226, 221, 221);
+    padding: 0px 5px; 
+    border: 1px solid black;
+}
+span {
+    border: 1px solid grey;
+    border-radius: 5px;
+}
